@@ -1,4 +1,4 @@
 # BOOKMAX
-It is a bookstore webpage where you can get any type of books that you want to learn
-devloped by Manish Nepali 
+It is a bookstore webpage where you can get any type of books
+
 
